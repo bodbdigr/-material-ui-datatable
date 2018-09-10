@@ -1,0 +1,16 @@
+{
+  "name": "@material-ui/datatable",
+  "version": "0.1.0",
+  "description": "Datatable wrapper for material-ui lib",
+  "scripts": {
+    "build": "tsc"
+  },
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "author": "Walerij Jadłowski",
+  "license": "MIT",
+  "dependencies": {
+    "@material-ui/core": "^3.0.2",
+    "typescript": "^3.0.3"
+  }
+}
