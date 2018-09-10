@@ -1,6 +1,6 @@
 import Avatar from '@material-ui/core/Avatar';
 import { css } from 'emotion';
-import { DataTable } from 'material-ui-datatable';
+import { DataTable } from '@material-ui/datatable';
 import * as React from 'react';
 
 interface IUser {
